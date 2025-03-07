@@ -2,8 +2,6 @@
 
 [![Add to Buildkite](https://buildkite.com/button.svg)](https://buildkite.com/new)
 
-An example [Buildkite](https://buildkite.com/) repository highlighting a bug in the build canvas with implicit dependencies created during step uploads.
-
 ## Problem
 
 ![Problem Screenshot](.github/problem-screenshot.png)
