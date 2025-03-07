@@ -1,0 +1,6 @@
+---
+name: "Implicit Step Dependencies"
+emoji: ":buildkite:"
+steps:
+  - label: ":buildkite: Generate and upload pipeline steps"
+    command: ".buildkite/upload-pipeline-steps.sh"

@@ -1,0 +1,7 @@
+steps:
+  - group: "[steps-4.yml] Grouped steps"
+    steps:
+      - label: "[steps-4.yml] Step 1"
+        command: "echo 'Hello World'"
+      - label: "[steps-4.yml] Step 2"
+        command: "echo 'Hello World'"
